@@ -1,0 +1,13 @@
+body{
+
+background-image:url("events\ coverpage.jpg");
+}
+.top-bar {
+  width: 500px;
+  text-align: left;
+  padding: 10px;
+}
+img{margin: left 500px; ;}
+body{
+    font-size: large;
+}
